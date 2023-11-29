@@ -91,6 +91,7 @@ function setup()
 
   bunny = createSprite(500,750,100,100);
   bunny.scale = 0.2;
+  bunny.addImage(rabbit)
 
   bunny.addAnimation('blinking',blink);
   bunny.addAnimation('eating',eat);
