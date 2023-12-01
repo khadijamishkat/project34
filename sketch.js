@@ -35,7 +35,7 @@ function preload()
 {
   bg_img = loadImage('background.jpg');
   food = loadImage('melon.png');
-  rabbit = loadImage('rabbit.png');
+  rabbit = loadImage('eat_4.png');
   
   bk_song = loadSound('sound1.mp3');
   sad_sound = loadSound("sad.wav")
